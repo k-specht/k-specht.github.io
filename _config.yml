@@ -24,11 +24,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Käthe Specht's software & game development portfolio, hosted on GitHub Pages.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://k-specht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: xpecht
+twitter_username:
 github_username:  xpecht
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
