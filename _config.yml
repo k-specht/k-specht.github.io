@@ -1,11 +1,11 @@
 title: Käthe Specht
 email: xpecht@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Käthe Specht's software & game development portfolio, hosted on GitHub Pages.
+  My software & game development portfolio!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://k-specht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/me.png
-github_username:  xpecht
+github_username: xpecht
 
 # Build settings
 theme: jekyll-theme-minimal
