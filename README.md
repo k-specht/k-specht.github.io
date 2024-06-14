@@ -1,7 +1,7 @@
 # Gamedev Portfolio
-I'm an Indie Game Developer, which means I do a little bit of everything.
-Everything here is from my WIP game, Mutate (inspired by [Amorphous+](<https://www.kongregate.com/games/innocuousgames/amorphous>)).
-It's made in the [Bevy Game Engine](<https://bevyengine.org/>), which means all of it is coded in Rust as a plugin (Bevy has no editor!).
+I'm an Indie Game Developer, which means I do a little bit of everything!
+Everything here's from Mutate, my WIP game (inspired by [Amorphous+](<https://www.kongregate.com/games/innocuousgames/amorphous>)).
+It's made in the editor-less [Bevy Game Engine](<https://bevyengine.org/>).
 
 ## Game Logic
 Some game engines will have built-in logic for entities, physics, and even effects.
