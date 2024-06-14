@@ -7,12 +7,11 @@ It's made in the [Bevy Game Engine](<https://bevyengine.org/>), which means all 
 Some game engines will have built-in logic for entities, physics, and even effects.
 If it doesn't, or more complex logic is needed, this is my forte!
 ![Character Eliminating Enemies](https://raw.githubusercontent.com/k-specht/k-specht.github.io/main/assets/img/Logic_compressed.gif)
-![Character Bumping Enemies](https://raw.githubusercontent.com/k-specht/k-specht.github.io/main/assets/img/Game_AI.gif)
 
 ## 3D Modeling
-![A simple humanoid armature pose](https://raw.githubusercontent.com/k-specht/k-specht.github.io/main/assets/img/3D_Modeling_and_Posing.png)
 My specialty isn't 3D-modeling, but sometimes a game needs a small animated object *fast*.
 All of the models and animations showcased here are content I made using Blender.
+![A simple humanoid armature pose](https://raw.githubusercontent.com/k-specht/k-specht.github.io/main/assets/img/3D_Modeling_and_Posing.png)
 ![A slime ball rolling](https://raw.githubusercontent.com/k-specht/k-specht.github.io/main/assets/img/Rigging_Animation.gif)
 
 ## Effect Programming
@@ -20,6 +19,7 @@ Some effects are very specific or resource-heavy, and need a well-optimized impl
 I made this [Marching Squares](<https://en.wikipedia.org/wiki/Marching_squares>) implementation for my mobile game for this reason!
 With the right shaders, these can look even better on other platforms.
 ![A slime trail that disappears naturally](https://raw.githubusercontent.com/k-specht/k-specht.github.io/main/assets/img/Effects_compressed.gif)
+![Character Bumping Enemies](https://raw.githubusercontent.com/k-specht/k-specht.github.io/main/assets/img/Game_AI.gif)
 
 ## Physics Baking
 Sometimes a game needs a "real-looking" animation that just can't be made with armature deforms, like a death animation or a dripping pipe.
