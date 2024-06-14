@@ -1,6 +1,6 @@
-# What I can do!
+# Gamedev Portfolio
 I'm an Indie Game Developer, which means I do a little bit of everything.
-Everything shown here is material from my work-in-progress game, Mutate (inspired by [Amorphous+](<https://www.kongregate.com/games/innocuousgames/amorphous>)).
+Everything here is from my WIP game, Mutate (inspired by [Amorphous+](<https://www.kongregate.com/games/innocuousgames/amorphous>)).
 It's made in the [Bevy Game Engine](<https://bevyengine.org/>), which means all of it is coded in Rust as a plugin (Bevy has no editor!).
 
 ## Game Logic
