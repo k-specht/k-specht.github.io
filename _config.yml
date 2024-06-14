@@ -1,7 +1,6 @@
 title: Käthe Specht
 email: xpecht@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Indie Game Developer
+description: Indie Game Developer
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://k-specht.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/me.png
